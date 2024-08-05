@@ -1,8 +1,8 @@
 
-AOS.init({
-  duration: 400,
-  delay: 400,
-});
+// AOS.init({
+//   duration: 400,
+//   delay: 400,
+// });
 
 $(document).ready(function () {
   $('.navbar-toggler').click(function(){
